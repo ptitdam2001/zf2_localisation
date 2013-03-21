@@ -1,5 +1,6 @@
 {
     "name": "ptitdam2001/zf2_localisation",
+    "version" : "1.0.0",
     "description": "A localization module for ZF2.",
     "type": "library",
     "license": "GPL",
