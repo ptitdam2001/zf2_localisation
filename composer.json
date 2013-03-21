@@ -2,6 +2,7 @@
     "name": "ptitdam2001/zf2_localisation",
     "description": "A localization module for ZF2.",
     "type": "library",
+    "license": "GPL",
     "keywords": [
         "zf2",
         "localization"
@@ -28,8 +29,8 @@
     },
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://packages.zendframework.com/"
+            "type": "git",
+            "url": "git://github.com/ptitdam2001/zf2_localisation.git"
         }
     ]
 }
