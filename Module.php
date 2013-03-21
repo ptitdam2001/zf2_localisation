@@ -1,5 +1,5 @@
 <?php
-namespace Localisation;
+namespace ptitdamLocalisation;
 
 class Module
 {
