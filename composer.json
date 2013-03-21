@@ -1,0 +1,35 @@
+{
+    "name": "ptitdam2001/zf2_localisation",
+    "description": "A localization module for ZF2.",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "localization"
+    ],
+    "homepage": "https://github.com/ptitdam2001/zf2_localisation",
+    "authors": [
+        {
+            "name": "Damien Suhard",
+            "email": "dsuhard@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    
+    "autoload": {
+        "psr-0": {
+            "ptitdamLocalisation": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ]
+}
