@@ -4,7 +4,7 @@
     "minimum-stability" : "dev",
     "description": "A localization module for ZF2.",
     "type": "library",
-    "license": "GPL",
+    "license": "MIT",
     "keywords": [
         "zf2",
         "localization"
